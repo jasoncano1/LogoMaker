@@ -35,4 +35,4 @@ Run 'npm test' in the terminal.
 ## Contact
 If there are any questions of concerns, I can be reached at:
 ##### [github: jasoncano1](https://github.com/jasoncano1)
-##### [email: jasoncano0509@gmail.com](mailto:jsadoncano0509@gmail.com)
+##### [email: jasoncano0509@gmail.com](mailto:jasoncano0509@gmail.com)
